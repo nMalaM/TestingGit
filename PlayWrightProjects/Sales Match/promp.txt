@@ -1,0 +1,10 @@
+Hi
+for this case, please navigate to demo.inferr.ing and let the user fill the login credential. 
+1. After the user logs in, they land on the dashboard page.
+2. The user clicks on a link "SalesMatch".
+3. The user is navigated to the SalesMatch page.
+4. On the SalesMatch details page, user click New Search button
+5. On the text area, user type "Do you have a 1000-piece puzzle for 10 years 10-year-old kid?" then enter
+6. Wait the result for 10 seconds
+7. The user is click the "Back to Search History" button
+8. On the "SalesMatch" page, the user should be able to go back to the dashboard page by click the logo on the top left
